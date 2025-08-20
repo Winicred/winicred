@@ -1,43 +1,75 @@
-# 👋 Hello, I'm Kirill
+# 👋 Hi — I’m Kirill (aka **winicred**)
 
-I am a junior software developer with a passion for learning and solving problems. I am currently working on a few
-projects to improve my skills and gain experience. I am always
-looking for new opportunities to learn and grow as a developer.
+I build backends, explore AI, and ship pet projects in my free time. I'm passionate about **backend systems**, enjoy frontend work when it fits, and lately I spend most of my time experimenting with **AI tools and LLM stacks**.
 
-## 💪 Skills
+---
 
-I have experience with the following technologies:
+# ⚡ Quick snapshot
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+* 🔭 Focus: **Backend & AI** (LangChain, LangGraph, Transformers, FastAPI)
+* 🛠️ Comfortable with: microservices, gRPC, Docker, Kubernetes, and building reliable APIs
+* 🌱 Currently exploring: advanced LLM tooling, scalable backend patterns, and service orchestration
+* 💬 I’m working now (keeping it low-key), but always open to chats about tech and learning
 
-## 💻 IDE/Text Editors
+---
 
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-purple?style=for-the-badge&logo=intellij-idea)](#) [![PyCharm](https://img.shields.io/badge/PyCharm-07242c?style=for-the-badge&logo=pycharm)](#) [![WebStorm](https://img.shields.io/badge/WebStorm-11b1fe?style=for-the-badge&logo=webstorm)](#) [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code)](#) [![Visual Studio](https://img.shields.io/badge/Visual_Studio-darkmagenta?style=for-the-badge&logo=visual-studio)](#)
+# 🧰 Tech & Tools
 
-## 📈 Projects
+**Backend / Systems**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 
-I also work on pet-projects in my free time. I'll periodically update my repository with them:
+**AI / ML**
+![LangGraph](https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge&logo=python&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-2D3748?style=for-the-badge&logo=python&logoColor=white) 
+![Transformers](https://img.shields.io/badge/-Transformers-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) 
+![PyToch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**[Pet Projects Collection](https://www.github.com/winicred/pet-projects)**
+**Frontend / UI**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white) 
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📊 Project Stats
+**Other / Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) 
+![gRPC](https://img.shields.io/badge/gRPC-%23292E33?style=for-the-badge&logo=grpc&logoColor=white)
+![uv](https://img.shields.io/badge/uv-pkg?style=for-the-badge&logo=python&logoColor=white)
 
-- **Commits:**        ![Commits](https://img.shields.io/github/commit-activity/y/winicred/pet-projects)
-- **Stars:**          ![Stars](https://img.shields.io/github/stars/winicred/pet-projects)
-- **Forks:**          ![Forks](https://img.shields.io/github/forks/winicred/pet-projects)
-- **Issues:**         ![Issues](https://img.shields.io/github/issues/winicred/pet-projects)
-- **Pull Requests:**  ![Pull Requests](https://img.shields.io/github/issues-pr/winicred/pet-projects)
+---
 
-## Get in Touch 📲
+# 🚀 Projects & Work
 
-You can reach me at the following email address:
+I keep a public collection of small pet projects that I update from time to time — experiments, helpers, and tiny services I build to learn new tools and ideas.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirya.goritskij@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-goritski-876247283/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/winicred)
+**Explore:** [https://github.com/winicred/pet-projects](https://github.com/winicred/pet-projects)
+
+---
+
+# 📊 GitHub stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=winicred\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=winicred\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winicred\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🌱 Currently learning
+
+* Deeper LangChain / LangGraph patterns and orchestration
+* Production-ready LLM pipelines and safety considerations
+* Scalable microservices with gRPC & Kubernetes
+
+---
+
+# 📫 Say hi
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kirya.goritskij@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/winicred)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kirill-goritski-876247283/)
